@@ -1,0 +1,41 @@
+
+#background {
+    background: #9cbce9;
+
+
+}
+
+#container {
+    background: #9cbce9;
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#resetbox {
+    background: #9cbce9;
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 10vh;
+}
+
+#reset {
+
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.row{
+    display: flex;
+    background: #1460ca;
+    flex-direction: row;
+}
